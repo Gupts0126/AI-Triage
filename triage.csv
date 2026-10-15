@@ -1,0 +1,121 @@
+patient_id,symptom_text,triage_level
+PT-1045,severe sudden abdominal pain high fever chills vomiting since yesterday,2
+PT-1048,presents with severe headache stiff neck high fever sensitivity to light nauseous,2
+PT-1005,history of unresponsive severe blood loss head trauma gasping for air for 3 days,1
+PT-1056,acute onset of high fever chills body ache persistent cough fatigue after mild exertion,3
+PT-1027,high fever confusion lethargy stiff neck light sensitivity for 3 days,2
+PT-1065,suffering from moderate shortness of breath cough fever for 3 days for 3 days,3
+PT-1074,suffering from minor skin rash itching no fever spreading slowly,4
+PT-1011,history of massive bleeding from deep wound unconscious slow pulse for 3 days,1
+PT-1041,history of severe flank pain blood in urine unbearable pain scale 9 out of 10,2
+PT-1108,complaining of medication refill request routine checkup no complaints for 3 days,5
+PT-1019,complaining of anaphylactic shock throat closing inability to breathe facial swelling starting this morning,1
+PT-1063,complaining of painful urination low back pain fever chills starting this morning,3
+PT-1012,crushing chest pain shortness of breath sweating arm pain since yesterday,1
+PT-1037,acute onset of sharp chest pain on left side dizziness high heart rate starting this morning,2
+PT-1090,suffering from minor skin rash itching no fever spreading slowly for 2 hours,4
+PT-1092,suffering from mild stomach upset diarrhea no fever moderate pain for 3 days,4
+PT-1110,presents with mild sunburn upper back slight skin redness,5
+PT-1001,presents with sudden collapse severe chest pain turning blue around lips starting this morning,1
+PT-1089,mild stomach upset diarrhea no fever moderate pain,4
+PT-1105,mild dry skin itching on arms no open sores since yesterday,5
+PT-1066,patient reports high fever chills body ache persistent cough fatigue starting this morning,3
+PT-1046,severe sudden abdominal pain high fever chills vomiting since yesterday,2
+PT-1032,presents with sharp chest pain on left side dizziness high heart rate for 2 hours,2
+PT-1071,patient reports swollen painful ankle unable to bear weight after fall for 3 days,3
+PT-1043,major burn on arm and chest severe blistering extreme pain for 3 days,2
+PT-1013,acute onset of unresponsive severe blood loss head trauma gasping for air for 2 hours,1
+PT-1016,acute onset of massive bleeding from deep wound unconscious slow pulse after mild exertion,1
+PT-1115,complaining of mild dry skin itching on arms no open sores for 3 days,5
+PT-1077,complaining of mild stomach upset diarrhea no fever moderate pain,4
+PT-1098,presents with minor cut on finger bleeding stopped small bandaid needed since yesterday,5
+PT-1025,presents with severe flank pain blood in urine unbearable pain scale 9 out of 10 for 3 days,2
+PT-1079,patient reports minor skin rash itching no fever spreading slowly for 3 days,4
+PT-1023,patient reports crushing chest pain shortness of breath sweating arm pain starting this morning,1
+PT-1097,acute onset of suture removal from old wound no redness or swelling,5
+PT-1057,complaining of painful urination low back pain fever chills,3
+PT-1111,medication refill request routine checkup no complaints after mild exertion,5
+PT-1031,acute onset of severe asthma attack wheezing unable to speak full sentences for 2 hours,2
+PT-1054,acute onset of deep cut on leg bleeding controlled painful to touch after mild exertion,3
+PT-1119,presents with mild dry skin itching on arms no open sores after mild exertion,5
+PT-1010,presents with crushing chest pain shortness of breath sweating arm pain for 2 hours,1
+PT-1034,acute onset of high fever confusion lethargy stiff neck light sensitivity after mild exertion,2
+PT-1026,acute onset of severe asthma attack wheezing unable to speak full sentences since yesterday,2
+PT-1070,suffering from severe migraine nausea sensitivity to sound light pain for 24 hours since yesterday,3
+PT-1029,suffering from high fever confusion lethargy stiff neck light sensitivity after mild exertion,2
+PT-1099,history of routine blood pressure check feeling fine since yesterday,5
+PT-1086,mild fever sore throat runny nose cough mild headache since yesterday,4
+PT-1006,complaining of gunshot wound to chest difficulty breathing low blood pressure after mild exertion,1
+PT-1091,presents with twisted ankle minor swelling painful when walking for 2 hours,4
+PT-1069,presents with persistent vomiting inability to keep fluids down dizziness for 3 days,3
+PT-1040,severe asthma attack wheezing unable to speak full sentences starting this morning,2
+PT-1050,acute onset of sharp abdominal pain vomiting high fever localized tenderness after mild exertion,3
+PT-1036,history of high fever confusion lethargy stiff neck light sensitivity starting this morning,2
+PT-1017,presents with unresponsive severe blood loss head trauma gasping for air for 3 days,1
+PT-1067,severe migraine nausea sensitivity to sound light pain for 24 hours starting this morning,3
+PT-1035,presents with severe flank pain blood in urine unbearable pain scale 9 out of 10,2
+PT-1114,complaining of minor cut on finger bleeding stopped small bandaid needed since yesterday,5
+PT-1008,suffering from massive bleeding from deep wound unconscious slow pulse for 2 hours,1
+PT-1044,acute onset of major burn on arm and chest severe blistering extreme pain since yesterday,2
+PT-1073,mild fever sore throat runny nose cough mild headache,4
+PT-1068,presents with severe migraine nausea sensitivity to sound light pain for 24 hours for 3 days,3
+PT-1084,acute onset of wrist pain after mild fall slight swelling full range of motion for 2 hours,4
+PT-1028,presents with sharp chest pain on left side dizziness high heart rate for 2 hours,2
+PT-1020,acute onset of crushing chest pain shortness of breath sweating arm pain for 2 hours,1
+PT-1096,suffering from sore throat earache mild congestion low grade fever after mild exertion,4
+PT-1101,complaining of mild sunburn upper back slight skin redness for 2 hours,5
+PT-1009,presents with gunshot wound to chest difficulty breathing low blood pressure starting this morning,1
+PT-1014,presents with gunshot wound to chest difficulty breathing low blood pressure for 3 days,1
+PT-1085,minor skin rash itching no fever spreading slowly starting this morning,4
+PT-1004,acute onset of unresponsive severe blood loss head trauma gasping for air since yesterday,1
+PT-1018,gunshot wound to chest difficulty breathing low blood pressure since yesterday,1
+PT-1039,presents with persistent headache neck rigidity high temperature light hurts eyes for 3 days,2
+PT-1118,presents with minor cut on finger bleeding stopped small bandaid needed after mild exertion,5
+PT-1007,patient reports anaphylactic shock throat closing inability to breathe facial swelling for 3 days,1
+PT-1078,history of wrist pain after mild fall slight swelling full range of motion,4
+PT-1112,history of mild sunburn upper back slight skin redness starting this morning,5
+PT-1095,history of mild stomach upset diarrhea no fever moderate pain for 3 days,4
+PT-1055,moderate shortness of breath cough fever for 3 days starting this morning,3
+PT-1051,history of swollen painful ankle unable to bear weight after fall since yesterday,3
+PT-1081,wrist pain after mild fall slight swelling full range of motion for 3 days,4
+PT-1047,patient reports severe asthma attack wheezing unable to speak full sentences for 2 hours,2
+PT-1082,suffering from mild fever sore throat runny nose cough mild headache,4
+PT-1062,history of severe migraine nausea sensitivity to sound light pain for 24 hours starting this morning,3
+PT-1117,presents with mild dry skin itching on arms no open sores since yesterday,5
+PT-1080,acute onset of mild stomach upset diarrhea no fever moderate pain since yesterday,4
+PT-1094,acute onset of mild fever sore throat runny nose cough mild headache after mild exertion,4
+PT-1042,acute onset of severe headache stiff neck high fever sensitivity to light nauseous,2
+PT-1059,presents with high fever chills body ache persistent cough fatigue starting this morning,3
+PT-1049,presents with swollen painful ankle unable to bear weight after fall for 2 hours,3
+PT-1102,acute onset of suture removal from old wound no redness or swelling since yesterday,5
+PT-1058,acute onset of painful urination low back pain fever chills for 2 hours,3
+PT-1076,acute onset of minor skin rash itching no fever spreading slowly after mild exertion,4
+PT-1033,suffering from sharp chest pain on left side dizziness high heart rate for 3 days,2
+PT-1113,complaining of mild dry skin itching on arms no open sores,5
+PT-1060,acute onset of moderate shortness of breath cough fever for 3 days,3
+PT-1064,history of persistent vomiting inability to keep fluids down dizziness since yesterday,3
+PT-1106,mild sunburn upper back slight skin redness,5
+PT-1038,patient reports major burn on arm and chest severe blistering extreme pain,2
+PT-1030,presents with sharp chest pain on left side dizziness high heart rate after mild exertion,2
+PT-1116,suffering from mild dry skin itching on arms no open sores,5
+PT-1002,complaining of sudden collapse severe chest pain turning blue around lips starting this morning,1
+PT-1053,moderate shortness of breath cough fever for 3 days since yesterday,3
+PT-1022,patient reports massive bleeding from deep wound unconscious slow pulse for 2 hours,1
+PT-1003,acute onset of anaphylactic shock throat closing inability to breathe facial swelling for 2 hours,1
+PT-1024,presents with sudden numbness face weakness difficulty speaking loss of vision for 3 days,1
+PT-1104,minor cut on finger bleeding stopped small bandaid needed for 2 hours,5
+PT-1100,presents with mild sunburn upper back slight skin redness since yesterday,5
+PT-1088,suffering from mild asthma flare up mild wheezing using inhaler starting this morning,4
+PT-1109,patient reports mild dry skin itching on arms no open sores,5
+PT-1075,history of mild asthma flare up mild wheezing using inhaler,4
+PT-1087,patient reports mild fever sore throat runny nose cough mild headache for 2 hours,4
+PT-1083,presents with sore throat earache mild congestion low grade fever for 3 days,4
+PT-1120,suffering from suture removal from old wound no redness or swelling,5
+PT-1021,cardiac arrest severe chest pressure radiating to jaw pale clammy skin for 3 days,1
+PT-1061,history of persistent vomiting inability to keep fluids down dizziness for 3 days,3
+PT-1072,acute onset of sharp abdominal pain vomiting high fever localized tenderness after mild exertion,3
+PT-1107,acute onset of medication refill request routine checkup no complaints after mild exertion,5
+PT-1015,acute onset of gunshot wound to chest difficulty breathing low blood pressure after mild exertion,1
+PT-1093,complaining of eye redness mild discharge itching no vision changes since yesterday,4
+PT-1052,suffering from persistent vomiting inability to keep fluids down dizziness since yesterday,3
+PT-1103,acute onset of mild sunburn upper back slight skin redness for 3 days,5

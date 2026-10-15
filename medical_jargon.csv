@@ -1,0 +1,51 @@
+jargon,plain_english,category
+cephalgia,severe headache,Symptoms
+nuchal rigidity,stiff neck,Symptoms
+photophobia,sensitivity to light,Symptoms
+pyrexia,fever,Symptoms
+nausea,upset stomach / feeling sick,Symptoms
+dyspnea,shortness of breath,Symptoms
+syncope,fainting / passing out,Symptoms
+emesis,vomiting,Symptoms
+vertigo,spinning dizziness,Symptoms
+diaphoresis,excessive sweating,Symptoms
+erythema,skin redness,Symptoms
+pruritus,itching,Symptoms
+edema,swelling from fluid build-up,Symptoms
+cyanosis,bluish skin from low oxygen,Symptoms
+lethargy,extreme fatigue / sluggishness,Symptoms
+palpitations,racing or pounding heartbeat,Symptoms
+hypertension,high blood pressure,Conditions
+hypotension,low blood pressure,Conditions
+tachycardia,fast heart rate,Conditions
+bradycardia,slow heart rate,Conditions
+contusion,bruise,Conditions
+laceration,deep cut,Conditions
+fracture,broken bone,Conditions
+hematoma,blood collection / pool under skin,Conditions
+pharyngitis,sore throat,Conditions
+rhinitis,runny or stuffy nose,Conditions
+otitis media,middle ear infection,Conditions
+gastrointestinal,stomach and bowel / gut,Conditions
+acute,sudden and short-term,Conditions
+chronic,long-lasting,Conditions
+benign,harmless / non-cancerous,Conditions
+malignant,serious / cancerous,Conditions
+stat,immediate emergency,Procedures & Care
+CT head,brain scan,Procedures & Care
+LP,spinal tap test,Procedures & Care
+Empiric IV,emergency IV medicine,Procedures & Care
+intravenous,given through a vein,Procedures & Care
+subcutaneous,given under the skin,Procedures & Care
+admitted to step-down unit,staying in hospital under close observation,Procedures & Care
+outpatient,going home the same day,Procedures & Care
+inpatient,staying overnight in hospital,Procedures & Care
+analgesics,pain relievers,Procedures & Care
+antipyretic,fever reducer,Procedures & Care
+antiemetic,nausea medicine,Procedures & Care
+NPO,do not eat or drink anything by mouth,Procedures & Care
+prophylactic,preventative treatment,Procedures & Care
+prognosis,expected recovery outlook,Procedures & Care
+BID,take 2 times a day,Dosage & Instructions
+TID,take 3 times a day,Dosage & Instructions
+QID,take 4 times a day,Dosage & Instructions
